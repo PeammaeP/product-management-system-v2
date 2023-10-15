@@ -1,0 +1,28 @@
+[   
+    {"stock_name" : "MacBook",
+     "stock_category" : "Electronics",
+     "stock_price" : 50900,
+     "stock_remaining" : 10
+    },
+
+    {
+     "stock_name" : "Nissin",
+     "stock_category" : "Food",
+     "stock_price" : 12,
+     "stock_remaining" : 1000
+    },
+
+    {
+     "stock_name" : "Sunscreen by Dr.Peam",
+     "stock_category" : "Beauty",
+     "stock_price" : 399,
+     "stock_remaining" : 100
+    },
+
+    {
+     "stock_name" : "Numerical Analysis 9th Edition",
+     "stock_category" : "STEM_Book",
+     "stock_price" : 1299,
+     "stock_remaining" : 100
+    }
+]
